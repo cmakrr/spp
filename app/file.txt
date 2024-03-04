@@ -1,0 +1,65 @@
+{
+  "threads": [
+    {
+      "id": 1,
+      "methods": [
+        {
+          "methodName": "simpleFooMethod",
+          "duration": 228,
+          "isFinished": true,
+          "childMethods": []
+        },
+        {
+          "methodName": "callBarMethods",
+          "duration": 1822,
+          "isFinished": false,
+          "childMethods": [
+            {
+              "methodName": "innerTraceMethod",
+              "duration": 513,
+              "isFinished": true,
+              "childMethods": [
+                {
+                  "methodName": "simpleTraceMethod",
+                  "duration": 513,
+                  "isFinished": true,
+                  "childMethods": []
+                }
+              ]
+            },
+            {
+              "methodName": "simpleTraceMethod",
+              "duration": 504,
+              "isFinished": true,
+              "childMethods": []
+            },
+            {
+              "methodName": "anotherThreadSimpleTraceMethod",
+              "duration": 804,
+              "isFinished": false,
+              "childMethods": [
+                {
+                  "methodName": "anotherThreadSimpleTraceMethod",
+                  "duration": 0,
+                  "isFinished": true,
+                  "childMethods": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "methods": [
+        {
+          "methodName": "simpleTraceMethod",
+          "duration": 505,
+          "isFinished": true,
+          "childMethods": []
+        }
+      ]
+    }
+  ]
+}
