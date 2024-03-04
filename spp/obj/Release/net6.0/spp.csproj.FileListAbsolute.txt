@@ -1,0 +1,17 @@
+C:\Users\gg\Desktop\Resources\spp\spp\obj\Release\net6.0\spp.csproj.AssemblyReference.cache
+C:\Users\gg\Desktop\Resources\spp\spp\obj\Release\net6.0\spp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gg\Desktop\Resources\spp\spp\obj\Release\net6.0\spp.AssemblyInfoInputs.cache
+C:\Users\gg\Desktop\Resources\spp\spp\obj\Release\net6.0\spp.AssemblyInfo.cs
+C:\Users\gg\Desktop\Resources\spp\spp\obj\Release\net6.0\spp.csproj.CoreCompileInputs.cache
+C:\Users\gg\Desktop\Resources\spp\spp\bin\Release\net6.0\spp.exe
+C:\Users\gg\Desktop\Resources\spp\spp\bin\Release\net6.0\spp.deps.json
+C:\Users\gg\Desktop\Resources\spp\spp\bin\Release\net6.0\spp.runtimeconfig.json
+C:\Users\gg\Desktop\Resources\spp\spp\bin\Release\net6.0\spp.dll
+C:\Users\gg\Desktop\Resources\spp\spp\bin\Release\net6.0\spp.pdb
+C:\Users\gg\Desktop\Resources\spp\spp\bin\Release\net6.0\Newtonsoft.Json.dll
+C:\Users\gg\Desktop\Resources\spp\spp\obj\Release\net6.0\spp.csproj.CopyComplete
+C:\Users\gg\Desktop\Resources\spp\spp\obj\Release\net6.0\spp.dll
+C:\Users\gg\Desktop\Resources\spp\spp\obj\Release\net6.0\refint\spp.dll
+C:\Users\gg\Desktop\Resources\spp\spp\obj\Release\net6.0\spp.pdb
+C:\Users\gg\Desktop\Resources\spp\spp\obj\Release\net6.0\spp.genruntimeconfig.cache
+C:\Users\gg\Desktop\Resources\spp\spp\obj\Release\net6.0\ref\spp.dll
